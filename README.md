@@ -49,7 +49,7 @@ Here are some of the practical projects I’ve built to sharpen my development a
 ### 📊 GitHub Stats
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gsa2708&show_icons=true&theme=radical&hide_border=true" alt="Bohdan's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=in2erstellar&show_icons=true&theme=radical&hide_border=true" alt="Bohdan's GitHub stats" />
 </p>
 
 ---
