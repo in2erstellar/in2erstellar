@@ -26,10 +26,10 @@ I am a Junior IT professional and software developer based in Jihlava, Czech Rep
 
 Here are some of the practical projects I’ve built to sharpen my development and infrastructure skills:
 
-* **[Logic Circuit Simulator](https://github.com/gsa2708/logic-sim)**
+* **[Logic Circuit Simulator](https://github.com/in2erstellar/logic-sim)**
   * **Tech:** C++, OOP, Digital Logic
   * A C++ digital logic simulator featuring object-oriented gate structures, interactive circuit evaluation, and truth table generation.
-* **[Price Tracker](https://github.com/gsa2708/price-tracker)** *(currently pushing)*
+* **[Price Tracker](https://github.com/in2erstellar/price-tracker)** *(currently pushing)*
   * **Tech:** Python, Playwright, SQLite/PostgreSQL, FastAPI/Flask, Telegram API
   * An automated web-scraping tool designed to track product prices across e-commerce platforms, execute scheduled background checks, and send instant Telegram notifications on price drops.
 * **Corporate Network Simulation**
